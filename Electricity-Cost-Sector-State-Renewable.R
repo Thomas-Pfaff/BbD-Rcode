@@ -1,6 +1,7 @@
 ######################################################################
 ### Title Electricity Cost by State, Month, and Renewable
 ### Produced by Thomas J Pfaff for Briefed by Data https://briefedbydata.substack.com/
+### Data https://www.eia.gov/electricity/data/browser/
 ### Data https://en.wikipedia.org/wiki/Cook_Partisan_Voting_Index
 ### Date  July 2025
 ######################################################################
